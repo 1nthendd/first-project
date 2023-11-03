@@ -4,6 +4,9 @@
     padding: 0;
 }
 
+html{
+    font-family: 'Roboto', sans-serif;
+}
 .container{
     width: 1140px;
     margin: 0 auto;
@@ -27,7 +30,6 @@
     margin-top: 12px;
     color: white;
     text-align: center;
-    font-family: Roboto;
     font-size: 15px;
     font-style: normal;
     font-weight: 500;
@@ -41,7 +43,6 @@ h1{
 .title{
     color: #F9BF3B;
     text-align: center;
-    font-family: Roboto;
     font-size: 41px;
     font-style: normal;
     font-weight: 900;
@@ -52,7 +53,6 @@ h1{
     color: #FFF;
     margin-top: 21px;
     text-align: center;
-    font-family: Roboto;
     font-size: 80px;
     font-style: normal;
     font-weight: 900;
@@ -69,7 +69,6 @@ h2.title{
     margin-top: 23px;
     color: #FFF;
     text-align: center;
-    font-family: Roboto;
     font-size: 21px;
     font-style: normal;
     font-weight: 300;
@@ -78,7 +77,6 @@ h2.title{
 
 .promo_text span{
     color: #F9BF3B;
-    font-family: Roboto;
     font-size: 21px;
     font-style: normal;
     font-weight: 700;
@@ -96,7 +94,6 @@ h2.title{
     color: #FFF;
     text-align: center;
     text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
-    font-family: RobotoCondensed;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -112,7 +109,6 @@ h2.title{
 .more .more_text{
     color: #FFF;
     text-align: center;
-    font-family: Roboto;
     font-size: 15px;
     font-style: normal;
     font-weight: 100;
@@ -135,7 +131,6 @@ h2.title{
 h2.waiting_header , .finish .finish_header{
     color: #252525;
     text-align: center;
-    font-family: Roboto;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -158,7 +153,6 @@ h2.waiting_header , .finish .finish_header{
     margin-top: 18px;
     color: #4A4A4A;
     text-align: center;
-    font-family: Roboto;
     font-size: 23px;
     font-style: normal;
     font-weight: 400;
@@ -180,7 +174,6 @@ h2.waiting_header , .finish .finish_header{
     margin-top: 26px;
     color: #4A4A4A;
     text-align: center;
-    font-family: Roboto;
     font-size: 15px;
     font-style: normal;
     font-weight: 300;
@@ -199,7 +192,6 @@ h2.waiting_header , .finish .finish_header{
 .optimization_header{
     padding-left: 391px;
     color: #299CBD;
-    font-family: Roboto;
     font-size: 30px;
     font-style: normal;
     font-weight: 900;
@@ -211,7 +203,6 @@ h2.waiting_header , .finish .finish_header{
     padding-left: 391px;
     margin-top: 25px;
     color: #4A4A4A;
-    font-family: Roboto;
     font-size: 17px;
     font-style: normal;
     font-weight: 300;
@@ -219,7 +210,6 @@ h2.waiting_header , .finish .finish_header{
 }
 .optimization_text span{
     color: #4A4A4A;
-    font-family: Roboto;
     font-size: 17px;
     font-style: normal;
     font-weight: 700;
@@ -259,7 +249,6 @@ h2.waiting_header , .finish .finish_header{
     margin-top: 25px;
     color: #EFEFEF;
     text-align: center;
-    font-family: Roboto;
     font-size: 17px;
     font-style: normal;
     font-weight: 300;
@@ -291,7 +280,6 @@ h2.waiting_header , .finish .finish_header{
     margin-top: 45px;
     color: #252525;
     text-align: center;
-    font-family: Roboto;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -308,7 +296,6 @@ h2.waiting_header , .finish .finish_header{
 .webinar_header{
     margin-top: 36px;
     color: #252525;
-    font-family: Roboto;
     font-size: 30px;
     font-style: normal;
     font-weight: 400;
@@ -319,7 +306,6 @@ h2.waiting_header , .finish .finish_header{
 .webinar_subheader{
     margin-top: 30px;
     color: #299CBD;
-    font-family: Roboto;
     font-size: 30px;
     font-style: normal;
     font-weight: 900;
@@ -330,7 +316,6 @@ h2.waiting_header , .finish .finish_header{
 .webinar_descr{
     margin-top: 25px;
     color: #4A4A4A;
-    font-family: Roboto;
     font-size: 23px;
     font-style: normal;
     font-weight: 400;
@@ -349,7 +334,6 @@ h2.waiting_header , .finish .finish_header{
 .footer_wrapper a{
     display: inline-block;
     color: #888;
-    font-family: Roboto;
     font-size: 15px;
     font-style: normal;
     font-weight: 300;
@@ -358,7 +342,6 @@ h2.waiting_header , .finish .finish_header{
 }
 .footer_call{
     color: #888;
-    font-family: Roboto;
     font-size: 15px;
     font-style: normal;
     font-weight: 300;
@@ -366,7 +349,6 @@ h2.waiting_header , .finish .finish_header{
 }
 .footer_wrapper span{
     color: #888;
-    font-family: Roboto;
     font-size: 15px;
     font-style: normal;
     font-weight: 300;
